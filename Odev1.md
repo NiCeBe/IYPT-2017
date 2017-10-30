@@ -2,21 +2,16 @@
 
 Sınıf | Öğrenci İsmi  | Numara
 -------|----------------|--------
-10-A  | Beyza Nur Azbaz | 380
-10-A   | Ayşe Yakar | 451
-10-A   | Muhammet Ali Ağırman | 425
+10-E   | Nisanur Ceviz  | 408
+10-E   | Ceren Köksal   | 413
+10-E   | Berfin Süphanoğlu | 379
 
-#  Photograph of a Television Screen
+#  Stubborn Ice
 ## Özet
- Öncelikle bizim takım olarak seçtiğimiz proje 1991 yılından olan 'Photograph of a Television Screen' sorusudur. Amacımız sahip olduğumuz bir fotoğraf makinesinin shutter (fotoğraf makinesi kapağı) hızını ve exposure time'ını (poz süresi) hesaplamaktır.
- Shutter bir fotoğraf makinesinin fotoğraf  çekerken açılıp kapanan kapağıdır. Exposure time ise fotoğraf çekerken fotoğraf makinesinin ışık aldığı süredir. 
- Seçtiğimiz bu soruyu yaparken fotoğraf makinesi ve bir videodan yararlanacağız. Fotoğraf makinesini hızlı çekime alıp videonun fotoğraflarını çekeceğiz. Videonun süresi ve çektiğimiz fotoğraf sayısından, fotoğraf makinemizin shutter hızını hesaplayacağız. Exposure time'ı ise fotoğraf makinesini fotoğraf çekerken videoya alarak hesaplayacağız. Fotoğraf çekerken makinenin kapağının kapanmasına kadar geçen süre bize fotoğraf makinemizin ışık alma süresini verecek.
+İlk olarak seçtiğimiz soru 2004 yılına ait 'Stubborn Ice' problemidir. Amacımız bitkisel yağla dolu bir kaba bir buz küpü koyup hareketini gözlemlemek ve dinamiklerini nicel olarak tanımlamaktır.
+ Seçtiğimiz bu problemi yaparken içi bitkisel yağla dolu küçük bir kap ve içine atacağımız bir buz küpünden yararlanacağız. Bitkisel yağa koyduğumuz buzun oluşturduğu damlacıklarının oluşumunu araştıracağız. Kabımızın yanına bir ölçme aleti yerleştirerek bir de kabı görecek şekilde bir kamera yerleştirip damlacıkların oluşumunu gözlemleyeceğiz.
 
 
 ## Kaynakçalar  
 
- 1. Hiscocks, Peter D. “Measuring Camera Shutter Speed”. Ryerson University. 
-https://www.ee.ryerson.ca/~phiscock/astronomy/light-pollution/shutter-cal.pdf
- Son Erişim Tarihi: 24 Mayıs 2010
- 2. https://www.youtube.com/watch?v=gL8YAoJFzkg&t=110s
- 3. Jacobson, R.E. 2000. The Manual of Photography: Photographic and Digital Imaging (9. Baskı). Oxford, UK: Focal Press.
+1. https://www.youtube.com/watch?v=JZE2HBogYTg
